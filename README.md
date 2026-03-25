@@ -2,7 +2,7 @@
 
 [![.NET Core](https://img.shields.io/badge/.NET%20Core-8.0-blue)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/Language-C%23-green)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![JWT](https://img.shields.io/badge/Security-JWT-orange)](https://jwt.io/)
+[![JWT](https://img.shields.io/badge/Security-JWT-orange)](https://jwt.io/)  
 
 O **FinanceControl** é uma API robusta desenvolvida para auxiliar no gerenciamento financeiro pessoal. O projeto foca em organizar receitas e despesas, oferecendo uma interface segura e performática para o controle do saldo mensal.
 
